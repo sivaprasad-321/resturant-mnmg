@@ -30,6 +30,11 @@ public class Controller_GUI
     public final static int USER_EMPLOYEE = 1;
     public final static int USER_MANAGER = 2; 
     
+    
+    
+    
+    
+    
     public Controller_GUI()
     {
         this.cDatabase = new Database();
